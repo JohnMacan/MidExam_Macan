@@ -1,7 +1,0 @@
----
-- name: Install Monitoring Tools (Midterm Exam)
-  hosts: all
-  roles:
-    - Elastic_Search
-    - Logstash
-    - Kibana
